@@ -1,7 +1,7 @@
 # Hybrid CNN-ViT Malware Classification
 This project implements a hybrid deep learning model combining Convolutional Neural Networks (CNN) and Vision Transformers (ViT) to classify malware from executable images. The project also explores transfer learning with ResNet-18 and EfficientNet-B0.
 
-## Papar
+## Paper
 * See the paper [here](https://nguyenltvinh.github.io/assets/DeepLearningVirus.pdf)
 
 ## Features
